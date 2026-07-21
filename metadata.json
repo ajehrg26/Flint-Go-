@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Luxe Lighter Boutique",
+  "description": "A high-end e-commerce platform for premium lighters featuring immersive 3D visuals and sophisticated modern animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
